@@ -175,4 +175,34 @@ LogInit: Object subsystem initialized
 [2016.08.11-16.08.21:376][  0]LogContentStreaming: Texture pool size now 700 MB
 [2016.08.11-16.08.22:470][  0]LogRenderer: Reallocating scene render targets to support 1160x604 (Frame:2).
 [2016.08.11-16.08.34:576][403]LogAssetRegistry: Asset discovery search completed in 19.1931 seconds
-[2016.08.11-16.08.34:576][403]LogCollectionManager: Rebuilt the object cache for 0 collecti
+[2016.08.11-16.08.34:576][403]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.08.11-16.08.34:576][403]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
+[2016.08.11-16.08.41:913][114]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 111 classes and 0 folders.
+[2016.08.11-16.08.43:017][114]LogRenderer: Reallocating scene render targets to support 1160x712 (Frame:1777).
+[2016.08.11-16.08.56:824][536]BlueprintLog: New page: Compile Test_BP
+[2016.08.11-16.08.56:972][536]BlueprintEditorCompileResults: Info [0044.72] Compile of Test_BP successful! [in 147 ms] (/Game/Blueprints/Test_BP.Test_BP)
+[2016.08.11-16.09.01:998][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Test_BP" FILE="../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/Blueprints/Test_BP.uasset" SILENT=true
+[2016.08.11-16.09.02:014][974]LogSavePackage: Save=14.43ms
+[2016.08.11-16.09.02:014][974]LogSavePackage: Moving '../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Saved/Test_BP7B12868645D2C4DB48173B96D641A075.tmp' to '../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/Blueprints/Test_BP.uasset'
+[2016.08.11-16.09.02:019][974]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/Blueprints/Test_BP.uasset
+[2016.08.11-16.44.50:254][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.08.11-16.44.50:359][505]PIE: New page: PIE session: Untitled_1 (11 Aug 2016 17:44:50)
+[2016.08.11-16.44.50:359][505]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.08.11-16.44.50:364][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005029s)
+[2016.08.11-16.44.50:366][505]LogAIModule: Creating AISystem for world Untitled_1
+[2016.08.11-16.44.50:366][505]LogPlayLevel: PIE: World Init took: (0.001496s)
+[2016.08.11-16.44.50:366][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006938s)
+[2016.08.11-16.44.50:395][505]LogInit: XAudio2 using 'Speakers (Conexant HD Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.08.11-16.44.50:409][505]LogInit: FAudioDevice initialized.
+[2016.08.11-16.44.50:530][505]LogWorld: Game class is 'GameMode'
+[2016.08.11-16.44.50:537][505]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.08.11-17.44.50
+[2016.08.11-16.44.50:538][505]LogWorld: Bringing up level for play took: 0.004650
+[2016.08.11-16.44.50:548][505]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2016.08.11-16.44.50:551][505]LogBlueprintUserMessages: [Test_BP_68] Hello Brad
+[2016.08.11-16.44.50:551][505]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.183
+[2016.08.11-16.45.20:395][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.08.11-16.45.20:479][116]LogSavePackage: Save=47.70ms
+[2016.08.11-16.45.20:479][116]LogSavePackage: Moving '../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Saved/WorldC9FCC88645E6977329B6649C81CFDDF0.tmp' to '../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/World.umap'
+[2016.08.11-16.45.20:482][116]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/World.umap
+[2016.08.11-16.45.20:521][116]LogFileHelpers: Saving map 'World' took 1.131
+[2016.08.11-16.48.01:040][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World" FILE="../../../../../../Users/bentown/Documents/Unreal Projects/GameJam/16AugJam/GameJamGame/Content/World.umap" SILENT=true AUTOSAVIN
